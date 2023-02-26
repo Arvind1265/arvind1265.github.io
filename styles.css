@@ -1,0 +1,91 @@
+body{
+    background-color: rgba(197, 211, 157, 0.734);      
+    color:black;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+#arvind{
+    color:rgb(113, 113, 168);
+    font-size: 20px;
+    margin: 1px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+
+#img1{
+    
+     
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+      
+ 
+} 
+ 
+.hi{
+   text-align: center;
+   padding: 20px;
+   font-family: 'Gloock', serif;
+} 
+
+#aboutMe{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.header{
+    padding: 5px;
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+}
+.points{
+    margin-left: 20px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+}
+
+.contact{
+    padding-top: 10px;
+    padding-bottom: 0%;
+    border: 0cap;
+    margin: 0%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.number{
+    text-align: center;
+    margin: 0%;
+    padding-top: 0%;
+    border: 0cap;
+    
+}
+h2{
+    margin: 0%;
+    padding: 0%;
+}
+h5{
+    margin: 0%;
+    padding-top: 0%;
+    padding-bottom: 10px;
+}
+
+.icon1{
+    display: block;
+    text-align: center;
+    
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: black; 
+   }
+   a:active { text-decoration: none; color:whitesmoke; }
+
